@@ -23,7 +23,7 @@ public class LongIn_SUbq {
  
     public static void main(String[] args)
     {
-        int[] arr = { 0, 8, 4, 12, 2, 9, 5, 13, 3, 11, 7, 15 };
+        int[] arr = {0, 8, 4, 12, 2, 9, 5, 13, 3, 11, 7, 15 };
  
         System.out.print("The length of the LIS is "
                         + LIS(arr, 0, arr.length, Integer.MIN_VALUE));
