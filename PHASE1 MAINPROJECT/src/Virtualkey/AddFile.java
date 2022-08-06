@@ -4,8 +4,8 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class CreateFile {
-	public void CreateFile() throws IOException {
+public class AddFile {
+	public void AddFile() throws IOException {
 		String path="D:\\FileHandling\\";
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the filename");
