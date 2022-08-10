@@ -1,7 +1,8 @@
-package Virtualkey;
+package Virtual_Key;
 import java.io.IOException;
 import java.util.Scanner;
-public class Virtual_Key {
+
+public class VirtualKey {
 	public static void main(String[] args) throws IOException{
 		Scanner sc= new Scanner(System.in);
 		AddFile cre=new AddFile();
@@ -53,6 +54,8 @@ public class Virtual_Key {
 			}
 		}
 	}
+
+	
 
 
 }

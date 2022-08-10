@@ -1,4 +1,4 @@
-package Virtualkey;
+package Virtual_Key;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
